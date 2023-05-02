@@ -6,7 +6,7 @@ package pos;
 
 /**
  *
- * @author adecel
+ * @author Dieuci
  */
 public class Sale extends javax.swing.JFrame {
 
